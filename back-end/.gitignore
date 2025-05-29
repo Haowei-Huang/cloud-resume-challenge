@@ -1,0 +1,4 @@
+.idea
+__pycache__
+.env
+/terraform-aws/.terraform
